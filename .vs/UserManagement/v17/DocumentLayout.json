@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FEB857-8E8A-4AFF-89F5-2959F45ADA39}|UserManagement.API\\UserManagement.API.Csproj|c:\\developer\\casestudy216052024\\casestudy2\\usermanagement.api\\controller\\automapper\\userprofilemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FEB857-8E8A-4AFF-89F5-2959F45ADA39}|UserManagement.API\\UserManagement.API.Csproj|solutionrelative:usermanagement.api\\controller\\automapper\\userprofilemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FEB857-8E8A-4AFF-89F5-2959F45ADA39}|UserManagement.API\\UserManagement.API.Csproj|c:\\developer\\casestudy216052024\\casestudy2\\usermanagement.api\\dto\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FEB857-8E8A-4AFF-89F5-2959F45ADA39}|UserManagement.API\\UserManagement.API.Csproj|solutionrelative:usermanagement.api\\dto\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FFBC65B-EC9D-400F-B46B-9CC9B3E529CD}|Domain\\Domain.csproj|c:\\developer\\casestudy216052024\\casestudy2\\domain\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FFBC65B-EC9D-400F-B46B-9CC9B3E529CD}|Domain\\Domain.csproj|solutionrelative:domain\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FFBC65B-EC9D-400F-B46B-9CC9B3E529CD}|Domain\\Domain.csproj|c:\\developer\\casestudy216052024\\casestudy2\\domain\\efcore\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FFBC65B-EC9D-400F-B46B-9CC9B3E529CD}|Domain\\Domain.csproj|solutionrelative:domain\\efcore\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FEB857-8E8A-4AFF-89F5-2959F45ADA39}|UserManagement.API\\UserManagement.API.Csproj|c:\\developer\\casestudy216052024\\casestudy2\\usermanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FEB857-8E8A-4AFF-89F5-2959F45ADA39}|UserManagement.API\\UserManagement.API.Csproj|solutionrelative:usermanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FEB857-8E8A-4AFF-89F5-2959F45ADA39}|UserManagement.API\\UserManagement.API.Csproj|c:\\developer\\casestudy216052024\\casestudy2\\usermanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7FEB857-8E8A-4AFF-89F5-2959F45ADA39}|UserManagement.API\\UserManagement.API.Csproj|solutionrelative:usermanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A88601-7299-43C2-99BB-81FA42E23130}|Infrastructure\\Infrastructure.csproj|c:\\developer\\casestudy216052024\\casestudy2\\infrastructure\\genericrepositorypattern\\functionality\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A88601-7299-43C2-99BB-81FA42E23130}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\genericrepositorypattern\\functionality\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FEB857-8E8A-4AFF-89F5-2959F45ADA39}|UserManagement.API\\UserManagement.API.Csproj|c:\\developer\\casestudy216052024\\casestudy2\\usermanagement.api\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FEB857-8E8A-4AFF-89F5-2959F45ADA39}|UserManagement.API\\UserManagement.API.Csproj|solutionrelative:usermanagement.api\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FEB857-8E8A-4AFF-89F5-2959F45ADA39}|UserManagement.API\\UserManagement.API.Csproj|c:\\developer\\casestudy216052024\\casestudy2\\usermanagement.api\\usermanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7FEB857-8E8A-4AFF-89F5-2959F45ADA39}|UserManagement.API\\UserManagement.API.Csproj|solutionrelative:usermanagement.api\\usermanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FEB857-8E8A-4AFF-89F5-2959F45ADA39}|UserManagement.API\\UserManagement.API.Csproj|c:\\developer\\casestudy216052024\\casestudy2\\usermanagement.api\\controller\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FEB857-8E8A-4AFF-89F5-2959F45ADA39}|UserManagement.API\\UserManagement.API.Csproj|solutionrelative:usermanagement.api\\controller\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A88601-7299-43C2-99BB-81FA42E23130}|Infrastructure\\Infrastructure.csproj|c:\\developer\\casestudy216052024\\casestudy2\\infrastructure\\genericrepositorypattern\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A88601-7299-43C2-99BB-81FA42E23130}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\genericrepositorypattern\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1AE032-899C-4D2B-9DB1-0DA40425988E}|Service\\Service.csproj|c:\\developer\\casestudy216052024\\casestudy2\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1AE032-899C-4D2B-9DB1-0DA40425988E}|Service\\Service.csproj|solutionrelative:service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1AE032-899C-4D2B-9DB1-0DA40425988E}|Service\\Service.csproj|c:\\developer\\casestudy216052024\\casestudy2\\service\\profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1AE032-899C-4D2B-9DB1-0DA40425988E}|Service\\Service.csproj|solutionrelative:service\\profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1AE032-899C-4D2B-9DB1-0DA40425988E}|Service\\Service.csproj|c:\\developer\\casestudy216052024\\casestudy2\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1AE032-899C-4D2B-9DB1-0DA40425988E}|Service\\Service.csproj|solutionrelative:service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1AE032-899C-4D2B-9DB1-0DA40425988E}|Service\\Service.csproj|c:\\developer\\casestudy216052024\\casestudy2\\service\\iprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1AE032-899C-4D2B-9DB1-0DA40425988E}|Service\\Service.csproj|solutionrelative:service\\iprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1AE032-899C-4D2B-9DB1-0DA40425988E}|Service\\Service.csproj|c:\\developer\\casestudy216052024\\casestudy2\\service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C1AE032-899C-4D2B-9DB1-0DA40425988E}|Service\\Service.csproj|solutionrelative:service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A88601-7299-43C2-99BB-81FA42E23130}|Infrastructure\\Infrastructure.csproj|c:\\developer\\casestudy216052024\\casestudy2\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C9A88601-7299-43C2-99BB-81FA42E23130}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FFBC65B-EC9D-400F-B46B-9CC9B3E529CD}|Domain\\Domain.csproj|c:\\developer\\casestudy216052024\\casestudy2\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7FFBC65B-EC9D-400F-B46B-9CC9B3E529CD}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserProfileDTO.cs",
+              "DocumentMoniker": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\UserManagement.API\\DTO\\UserProfileDTO.cs",
+              "RelativeDocumentMoniker": "UserManagement.API\\DTO\\UserProfileDTO.cs",
+              "ToolTip": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\UserManagement.API\\DTO\\UserProfileDTO.cs",
+              "RelativeToolTip": "UserManagement.API\\DTO\\UserProfileDTO.cs",
+              "ViewState": "AQIAAAIAAACAMjMzMzMrwA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T05:51:19.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserMapper.cs",
+              "DocumentMoniker": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\Domain\\UserMapper.cs",
+              "RelativeDocumentMoniker": "Domain\\UserMapper.cs",
+              "ToolTip": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\Domain\\UserMapper.cs",
+              "RelativeToolTip": "Domain\\UserMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T05:47:50.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDBContext.cs",
+              "DocumentMoniker": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\Domain\\EFCore\\UserDBContext.cs",
+              "RelativeDocumentMoniker": "Domain\\EFCore\\UserDBContext.cs",
+              "ToolTip": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\Domain\\EFCore\\UserDBContext.cs",
+              "RelativeToolTip": "Domain\\EFCore\\UserDBContext.cs",
+              "ViewState": "AQIAABoAAABAzczMzMwWwCMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T05:37:30.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\UserManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "UserManagement.API\\appsettings.json",
+              "ToolTip": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\UserManagement.API\\appsettings.json",
+              "RelativeToolTip": "UserManagement.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T03:50:12.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserManagement.API.Csproj",
+              "DocumentMoniker": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\UserManagement.API\\UserManagement.API.Csproj",
+              "RelativeDocumentMoniker": "UserManagement.API\\UserManagement.API.Csproj",
+              "ToolTip": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\UserManagement.API\\UserManagement.API.Csproj",
+              "RelativeToolTip": "UserManagement.API\\UserManagement.API.Csproj",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T17:32:50.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Userprofilemapper.cs",
+              "DocumentMoniker": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\UserManagement.API\\Controller\\AutoMapper\\Userprofilemapper.cs",
+              "RelativeDocumentMoniker": "UserManagement.API\\Controller\\AutoMapper\\Userprofilemapper.cs",
+              "ToolTip": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\UserManagement.API\\Controller\\AutoMapper\\Userprofilemapper.cs",
+              "RelativeToolTip": "UserManagement.API\\Controller\\AutoMapper\\Userprofilemapper.cs",
+              "ViewState": "AQIAAAcAAABgMDMzMzMbwBUAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T03:47:22.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\UserManagement.API\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "UserManagement.API\\Controller\\UserController.cs",
+              "ToolTip": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\UserManagement.API\\Controller\\UserController.cs",
+              "RelativeToolTip": "UserManagement.API\\Controller\\UserController.cs",
+              "ViewState": "AQIAAB8AAAAAZmZmZiYswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T03:47:59.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-17T05:13:37.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\UserManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "UserManagement.API\\Program.cs",
+              "ToolTip": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\UserManagement.API\\Program.cs",
+              "RelativeToolTip": "UserManagement.API\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAZWZmZmYUwBQAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T17:14:55.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\Infrastructure\\GenericRepositoryPattern\\Functionality\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GenericRepositoryPattern\\Functionality\\IGenericRepository.cs",
+              "ToolTip": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\Infrastructure\\GenericRepositoryPattern\\Functionality\\IGenericRepository.cs",
+              "RelativeToolTip": "Infrastructure\\GenericRepositoryPattern\\Functionality\\IGenericRepository.cs",
+              "ViewState": "AQIAAAcAAABgMzMzMzMbwAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:25:21.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\UserManagement.API\\Controller\\ProfileController.cs",
+              "RelativeDocumentMoniker": "UserManagement.API\\Controller\\ProfileController.cs",
+              "ToolTip": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\UserManagement.API\\Controller\\ProfileController.cs",
+              "RelativeToolTip": "UserManagement.API\\Controller\\ProfileController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T03:47:55.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "Service\\IUserService.cs",
+              "ToolTip": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\Service\\IUserService.cs",
+              "RelativeToolTip": "Service\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:14:56.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\Infrastructure\\GenericRepositoryPattern\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GenericRepositoryPattern\\Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\Infrastructure\\GenericRepositoryPattern\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "Infrastructure\\GenericRepositoryPattern\\Repository\\GenericRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwPQ4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:01:02.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\UserService.cs",
+              "ToolTip": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\Service\\UserService.cs",
+              "RelativeToolTip": "Service\\UserService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:19:40.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProfileService.cs",
+              "DocumentMoniker": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\Service\\ProfileService.cs",
+              "RelativeDocumentMoniker": "Service\\ProfileService.cs",
+              "ToolTip": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\Service\\ProfileService.cs",
+              "RelativeToolTip": "Service\\ProfileService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:05:35.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProfileService.cs",
+              "DocumentMoniker": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\Service\\IProfileService.cs",
+              "RelativeDocumentMoniker": "Service\\IProfileService.cs",
+              "ToolTip": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\Service\\IProfileService.cs",
+              "RelativeToolTip": "Service\\IProfileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:06:48.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Service.csproj",
+              "DocumentMoniker": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "Service\\Service.csproj",
+              "ToolTip": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\Service\\Service.csproj",
+              "RelativeToolTip": "Service\\Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T17:33:36.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Developer\\CaseStudy216052024\\CaseStudy2\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T17:33:32.981Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
